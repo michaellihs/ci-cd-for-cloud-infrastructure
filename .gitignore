@@ -1,0 +1,14 @@
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+*.terraform*
+*.terragrunt-cache*
+
+### macOS template
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+backend.tf
